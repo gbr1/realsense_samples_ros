@@ -1,3 +1,27 @@
+# NOTE changed somethings in Cmakefile and time in examples.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # Intel® RealSense™ SDK for Linux ROS Samples
 
 ## Build Status
